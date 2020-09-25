@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Experimental Psychology
+    institution: McGill University
+    year: 2017-Present
+  - course: MSc in Experimental Psychology
+    institution: McGill University
+    year: 2017
+  - course: BSc in Neuroscience, Psychology, Physiology
+    institution: University of Toronto
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I started my graduate studies under the supervision of Drs. Natasha Rajah and Debra Titone. For my MSc Thesis I investigated whether multilingualism over the lifespan impacts women and men in a way that differentially buffers against age-related declines in executive control.  The unique sex effects observed in the completion of this MSc project inspired me to pursue sex differences in episodic memory in healthy aging for my PhD work under the primary supervision of Dr. Rajah. I am currently conducting a multivariate Partial Least Squares fMRI analysis to study brain-behaviour correlations in episodic memory on a healthy adult lifespan sample. Through my research training, I am interested in exploring sex differences in brain aging and memory through the use of different methodological (i.e., relationship between structure, function, and behaviour) and statistical approaches.
